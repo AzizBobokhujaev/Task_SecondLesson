@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\bin\Debug\net5.0\TasksSecondLesson.exe
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\bin\Debug\net5.0\TasksSecondLesson.deps.json
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\bin\Debug\net5.0\TasksSecondLesson.runtimeconfig.json
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\bin\Debug\net5.0\TasksSecondLesson.runtimeconfig.dev.json
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\bin\Debug\net5.0\TasksSecondLesson.dll
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\bin\Debug\net5.0\ref\TasksSecondLesson.dll
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\bin\Debug\net5.0\TasksSecondLesson.pdb
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\obj\Debug\net5.0\TasksSecondLesson.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\obj\Debug\net5.0\TasksSecondLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\obj\Debug\net5.0\TasksSecondLesson.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\obj\Debug\net5.0\TasksSecondLesson.AssemblyInfo.cs
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\obj\Debug\net5.0\TasksSecondLesson.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\obj\Debug\net5.0\TasksSecondLesson.dll
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\obj\Debug\net5.0\ref\TasksSecondLesson.dll
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\obj\Debug\net5.0\TasksSecondLesson.pdb
+C:\Users\User\source\repos\TasksSecondLesson\TasksSecondLesson\obj\Debug\net5.0\TasksSecondLesson.genruntimeconfig.cache
